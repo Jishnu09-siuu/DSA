@@ -7,7 +7,7 @@ This repository contains my solutions to **LeetCode** problems. Every solution i
 ## 📌 About
 
 - 💻 Platform: LeetCode
-- 🧠 Language: C
+- 🧠 Language: C,C++
 - 🔄 Auto-synced from LeetCode using GitHub integration
 - 🎯 Goal: Strengthen DSA concepts and improve problem-solving skills
 
@@ -21,7 +21,6 @@ DSA/
 └── README.md
 ```
 
-> The folder structure may vary depending on the LeetCode extension configuration.
 
 ## 📈 Topics Covered
 
