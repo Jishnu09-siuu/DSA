@@ -2,12 +2,12 @@
 
 Welcome to my **Data Structures & Algorithms** repository!
 
-This repository contains my solutions to **LeetCode** problems. Every solution is automatically synced from LeetCode to GitHub, helping me track my consistency and progress while preparing for coding interviews and improving my problem-solving skills.
+This repository contains my solutions to **LeetCode** problems. Every solution is automatically synced from LeetCode to GitHub, helping me track my consistency and progress while preparing for coding interviews.
 
 ## 📌 About
 
 - 💻 Platform: LeetCode
-- 🧠 Language: C,C++
+- 🧠 Language: C, C++
 - 🔄 Auto-synced from LeetCode using GitHub integration
 - 🎯 Goal: Strengthen DSA concepts and improve problem-solving skills
 
@@ -20,7 +20,6 @@ DSA/
 ├── Hard/
 └── README.md
 ```
-
 
 ## 📈 Topics Covered
 
