@@ -7,7 +7,7 @@ This repository contains my solutions to **LeetCode** problems. Every solution i
 ## 📌 About
 
 - 💻 Platform: LeetCode
-- 🧠 Language: C, C++
+- 🧠 Language: C, Java
 - 🔄 Auto-synced from LeetCode using GitHub integration
 - 🎯 Goal: Strengthen DSA concepts and improve problem-solving skills
 
